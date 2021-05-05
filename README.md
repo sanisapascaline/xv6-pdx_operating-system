@@ -14,3 +14,6 @@ This repository is created in order for the submission of assignment 1 operating
 
 ```For running screenshots, please refer to the usertests folder.```
 * 🔗: <a href="https://github.com/sanisapascaline/xv6-pdx_operating-system/tree/main/usertests">usertests </a>
+
+```For xv6-pdx source code, please refer to the source folder.```
+* 🔗: <a href="https://github.com/sanisapascaline/xv6-pdx_operating-system/tree/main/source">source code </a>
